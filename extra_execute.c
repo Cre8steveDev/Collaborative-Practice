@@ -5,7 +5,7 @@
  * @args: An array of user arguments
  * @argv: Array of command line arguments
  * @fullcmd: Full command
- * Author: Oluwatobi Adesanya (Cohort 16 - ALX SE)
+ * Author: Oluwatobi Adesanya
  * Return: Void
  */
 

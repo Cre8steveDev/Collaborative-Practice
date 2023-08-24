@@ -4,7 +4,7 @@
  * execn - Executes the command
  * @args: An array of user arguments
  * @argv: Array of command line arguments
- * Author: Oluwatobi Adesanya (Cohort 16 - ALX SE)
+ * Author: Oluwatobi Adesanya
  * Return: Void
  */
 
