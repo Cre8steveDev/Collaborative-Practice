@@ -2,4 +2,3 @@
 
 ## August 24th, 2023
 
-## Cohort 16
