@@ -1,0 +1,4 @@
+ls
+/bin/ls
+/bin/thththth
+exit

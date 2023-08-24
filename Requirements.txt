@@ -1,0 +1,8 @@
+1. Print a prompt for the user
+2. Receive input from the user
+3. Execute the command from the user and print an error
+   if an invalid command is entered
+4. REPEAT STEP 1
+
+
+
